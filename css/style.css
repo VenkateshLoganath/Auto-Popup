@@ -52,6 +52,8 @@ display: none;
     margin-top:10px;
     border :1px solid transparent;
     border-radius: 5px;
+    background-color:#000;
+    color:#fff;
 
 }
 .content h2{
